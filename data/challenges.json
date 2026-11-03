@@ -1,0 +1,706 @@
+{
+  "event": "HI Cyber Con 2026 CTF",
+  "observed_on": "2026-11-03",
+  "timezone": "America/Swift_Current",
+  "source": "https://ctf.hiddeninvestigations.net/challenges",
+  "event_ended": true,
+  "account": "yele",
+  "rank": 32,
+  "participants": 1119,
+  "solved": 64,
+  "total": 69,
+  "points": 4019,
+  "available_points": 5115,
+  "challenges": [
+    {
+      "title": "Apex Engine",
+      "category": "pwn",
+      "author": "otolk1",
+      "points": 55,
+      "solves": 528,
+      "platform_solved": true,
+      "documentation": "traces_insuffisantes",
+      "writeup": null
+    },
+    {
+      "title": "LetMeOut",
+      "category": "pwn",
+      "author": "Hidden Investigations",
+      "points": 60,
+      "solves": 279,
+      "platform_solved": true,
+      "documentation": "traces_insuffisantes",
+      "writeup": null
+    },
+    {
+      "title": "Project Mangoo",
+      "category": "pwn",
+      "author": "0xblackfox",
+      "points": 64,
+      "solves": 211,
+      "platform_solved": true,
+      "documentation": "traces_insuffisantes",
+      "writeup": null
+    },
+    {
+      "title": "Titan Relay",
+      "category": "pwn",
+      "author": "0xblackfox",
+      "points": 65,
+      "solves": 195,
+      "platform_solved": true,
+      "documentation": "traces_insuffisantes",
+      "writeup": null
+    },
+    {
+      "title": "Cold Beacon",
+      "category": "reverse",
+      "author": "Hidden Investigations",
+      "points": 54,
+      "solves": 623,
+      "platform_solved": true,
+      "documentation": "traces_insuffisantes",
+      "writeup": null
+    },
+    {
+      "title": "Epsilon Drift",
+      "category": "reverse",
+      "author": "Hidden Investigations",
+      "points": 54,
+      "solves": 556,
+      "platform_solved": true,
+      "documentation": "traces_insuffisantes",
+      "writeup": null
+    },
+    {
+      "title": "Obfuscated Flow",
+      "category": "reverse",
+      "author": "otolk1",
+      "points": 55,
+      "solves": 469,
+      "platform_solved": true,
+      "documentation": "traces_insuffisantes",
+      "writeup": null
+    },
+    {
+      "title": "Night Batch",
+      "category": "reverse",
+      "author": "Hidden Investigations",
+      "points": 56,
+      "solves": 437,
+      "platform_solved": true,
+      "documentation": "traces_insuffisantes",
+      "writeup": null
+    },
+    {
+      "title": "Last Execution",
+      "category": "reverse",
+      "author": "Hidden Investigations",
+      "points": 56,
+      "solves": 424,
+      "platform_solved": true,
+      "documentation": "traces_insuffisantes",
+      "writeup": null
+    },
+    {
+      "title": "Signal Lock",
+      "category": "reverse",
+      "author": "Hidden Investigations",
+      "points": 57,
+      "solves": 384,
+      "platform_solved": true,
+      "documentation": "traces_insuffisantes",
+      "writeup": null
+    },
+    {
+      "title": "The Inner Engine",
+      "category": "reverse",
+      "author": "Hidden Investigations",
+      "points": 57,
+      "solves": 356,
+      "platform_solved": true,
+      "documentation": "traces_insuffisantes",
+      "writeup": null
+    },
+    {
+      "title": "Snapfile",
+      "category": "reverse",
+      "author": "Hidden Investigations",
+      "points": 59,
+      "solves": 308,
+      "platform_solved": true,
+      "documentation": "traces_insuffisantes",
+      "writeup": null
+    },
+    {
+      "title": "Entitlement",
+      "category": "reverse",
+      "author": "Hidden Investigations",
+      "points": 59,
+      "solves": 295,
+      "platform_solved": true,
+      "documentation": "analyse_partielle",
+      "writeup": "writeups/reverse/entitlement.md"
+    },
+    {
+      "title": "Cold Circuit",
+      "category": "reverse",
+      "author": "Hidden Investigations",
+      "points": 63,
+      "solves": 225,
+      "platform_solved": true,
+      "documentation": "solution_reconstituee",
+      "writeup": "writeups/reverse/cold-circuit.md"
+    },
+    {
+      "title": "Cipher Cascade",
+      "category": "crypto",
+      "author": "@archnexus707",
+      "points": 52,
+      "solves": 892,
+      "platform_solved": true,
+      "documentation": "traces_insuffisantes",
+      "writeup": null
+    },
+    {
+      "title": "Tyco",
+      "category": "crypto",
+      "author": "Tsumiiiiiiii",
+      "points": 56,
+      "solves": 442,
+      "platform_solved": true,
+      "documentation": "traces_insuffisantes",
+      "writeup": null
+    },
+    {
+      "title": "Log Jam",
+      "category": "crypto",
+      "author": "Hidden Investigations",
+      "points": 56,
+      "solves": 399,
+      "platform_solved": true,
+      "documentation": "traces_insuffisantes",
+      "writeup": null
+    },
+    {
+      "title": "ChronoGrind",
+      "category": "crypto",
+      "author": "Hidden Investigations",
+      "points": 58,
+      "solves": 326,
+      "platform_solved": true,
+      "documentation": "analyse_partielle",
+      "writeup": "writeups/crypto/chronogrind.md"
+    },
+    {
+      "title": "Rocinate",
+      "category": "crypto",
+      "author": "Tsumiiiiiiii",
+      "points": 60,
+      "solves": 287,
+      "platform_solved": true,
+      "documentation": "solution_reconstituee",
+      "writeup": "writeups/crypto/rocinate.md"
+    },
+    {
+      "title": "Just Give Me The Flag Man",
+      "category": "crypto",
+      "author": "Hidden Investigations",
+      "points": 60,
+      "solves": 268,
+      "platform_solved": true,
+      "documentation": "traces_insuffisantes",
+      "writeup": null
+    },
+    {
+      "title": "Cairn",
+      "category": "crypto",
+      "author": "Hidden Investigations",
+      "points": 70,
+      "solves": 150,
+      "platform_solved": true,
+      "documentation": "solution_reconstituee",
+      "writeup": "writeups/crypto/cairn.md"
+    },
+    {
+      "title": "Rocinate Revenge",
+      "category": "crypto",
+      "author": "Tsumiiiiiiii",
+      "points": 328,
+      "solves": 9,
+      "platform_solved": false,
+      "documentation": "analyse_partielle",
+      "writeup": "writeups/crypto/rocinate-revenge.md"
+    },
+    {
+      "title": "Ghost in the Wire",
+      "category": "forensics",
+      "author": "@archnexus707",
+      "points": 53,
+      "solves": 795,
+      "platform_solved": true,
+      "documentation": "traces_insuffisantes",
+      "writeup": null
+    },
+    {
+      "title": "Broken Signals",
+      "category": "forensics",
+      "author": "@archnexus707",
+      "points": 53,
+      "solves": 774,
+      "platform_solved": true,
+      "documentation": "traces_insuffisantes",
+      "writeup": null
+    },
+    {
+      "title": "Memory Liar",
+      "category": "forensics",
+      "author": "otolk1",
+      "points": 53,
+      "solves": 672,
+      "platform_solved": true,
+      "documentation": "traces_insuffisantes",
+      "writeup": null
+    },
+    {
+      "title": "RESURRECTION (Operation Eclipse Void)",
+      "category": "forensics",
+      "author": "Hidden Investigations",
+      "points": 59,
+      "solves": 309,
+      "platform_solved": true,
+      "documentation": "traces_insuffisantes",
+      "writeup": null
+    },
+    {
+      "title": "TESSERA",
+      "category": "forensics",
+      "author": "Hidden Investigtaions",
+      "points": 62,
+      "solves": 240,
+      "platform_solved": true,
+      "documentation": "traces_insuffisantes",
+      "writeup": null
+    },
+    {
+      "title": "Ghost in RAM",
+      "category": "forensics",
+      "author": "Hidden Investigations",
+      "points": 63,
+      "solves": 214,
+      "platform_solved": true,
+      "documentation": "solution_reconstituee",
+      "writeup": "writeups/forensics/ghost-in-ram.md"
+    },
+    {
+      "title": "The Miner That Mined The Victim",
+      "category": "forensics",
+      "author": "Hidden Investigations",
+      "points": 76,
+      "solves": 121,
+      "platform_solved": true,
+      "documentation": "solution_reconstituee",
+      "writeup": "writeups/forensics/the-miner-that-mined-the-victim.md"
+    },
+    {
+      "title": "Dormant Signer",
+      "category": "blockchain",
+      "author": "Hidden Investigations",
+      "points": 58,
+      "solves": 351,
+      "platform_solved": true,
+      "documentation": "traces_insuffisantes",
+      "writeup": null
+    },
+    {
+      "title": "Pruned Ledger",
+      "category": "blockchain",
+      "author": "Hidden Investigations",
+      "points": 61,
+      "solves": 250,
+      "platform_solved": true,
+      "documentation": "traces_insuffisantes",
+      "writeup": null
+    },
+    {
+      "title": "Hollow Reserve",
+      "category": "blockchain",
+      "author": "Hidden Investigations",
+      "points": 63,
+      "solves": 224,
+      "platform_solved": true,
+      "documentation": "traces_insuffisantes",
+      "writeup": null
+    },
+    {
+      "title": "Quiet Upgrade",
+      "category": "blockchain",
+      "author": "Hidden Investigations",
+      "points": 64,
+      "solves": 210,
+      "platform_solved": true,
+      "documentation": "traces_insuffisantes",
+      "writeup": null
+    },
+    {
+      "title": "Standing Order",
+      "category": "blockchain",
+      "author": "Hidden Investigations",
+      "points": 67,
+      "solves": 174,
+      "platform_solved": true,
+      "documentation": "traces_insuffisantes",
+      "writeup": null
+    },
+    {
+      "title": "Whisper",
+      "category": "web",
+      "author": "Oxnoobsec",
+      "points": 57,
+      "solves": 358,
+      "platform_solved": true,
+      "documentation": "traces_insuffisantes",
+      "writeup": null
+    },
+    {
+      "title": "Orphaned Context",
+      "category": "web",
+      "author": "Hidden Investigations",
+      "points": 61,
+      "solves": 253,
+      "platform_solved": true,
+      "documentation": "traces_insuffisantes",
+      "writeup": null
+    },
+    {
+      "title": "File Viewer",
+      "category": "web",
+      "author": "Saiyan0x01",
+      "points": 65,
+      "solves": 194,
+      "platform_solved": true,
+      "documentation": "traces_insuffisantes",
+      "writeup": null
+    },
+    {
+      "title": "Stillwell Estates",
+      "category": "web",
+      "author": "Hidden Investigations",
+      "points": 68,
+      "solves": 165,
+      "platform_solved": true,
+      "documentation": "traces_insuffisantes",
+      "writeup": null
+    },
+    {
+      "title": "Overgrowth",
+      "category": "web",
+      "author": "Oxnoobsec",
+      "points": 72,
+      "solves": 143,
+      "platform_solved": true,
+      "documentation": "traces_insuffisantes",
+      "writeup": null
+    },
+    {
+      "title": "Ouroboros",
+      "category": "web",
+      "author": "Oxnoobsec",
+      "points": 78,
+      "solves": 114,
+      "platform_solved": false,
+      "documentation": "traces_insuffisantes",
+      "writeup": null
+    },
+    {
+      "title": "The Coffee Shop",
+      "category": "web",
+      "author": "Hidden Investigations",
+      "points": 428,
+      "solves": 4,
+      "platform_solved": false,
+      "documentation": "traces_insuffisantes",
+      "writeup": null
+    },
+    {
+      "title": "Forgotten Secrets",
+      "category": "misc",
+      "author": "@archnexus707",
+      "points": 54,
+      "solves": 632,
+      "platform_solved": true,
+      "documentation": "traces_insuffisantes",
+      "writeup": null
+    },
+    {
+      "title": "The Foxglove Trace",
+      "category": "misc",
+      "author": "Hidden Investigations",
+      "points": 54,
+      "solves": 610,
+      "platform_solved": true,
+      "documentation": "traces_insuffisantes",
+      "writeup": null
+    },
+    {
+      "title": "Warden’s Maze",
+      "category": "misc",
+      "author": "Hidden Investigations",
+      "points": 57,
+      "solves": 373,
+      "platform_solved": true,
+      "documentation": "traces_insuffisantes",
+      "writeup": null
+    },
+    {
+      "title": "Dead Air",
+      "category": "misc",
+      "author": "Hidden Investigations",
+      "points": 60,
+      "solves": 275,
+      "platform_solved": true,
+      "documentation": "solution_reconstituee",
+      "writeup": "writeups/misc/dead-air.md"
+    },
+    {
+      "title": "The Collector's Trail",
+      "category": "misc",
+      "author": "Hidden Investigations",
+      "points": 64,
+      "solves": 203,
+      "platform_solved": true,
+      "documentation": "traces_insuffisantes",
+      "writeup": null
+    },
+    {
+      "title": "Labyrinth",
+      "category": "misc",
+      "author": "Hidden Investigations",
+      "points": 70,
+      "solves": 151,
+      "platform_solved": true,
+      "documentation": "traces_insuffisantes",
+      "writeup": null
+    },
+    {
+      "title": "Shadow Identity",
+      "category": "osint",
+      "author": "@archnexus707",
+      "points": 53,
+      "solves": 751,
+      "platform_solved": true,
+      "documentation": "traces_insuffisantes",
+      "writeup": null
+    },
+    {
+      "title": "Low Tide Ledger",
+      "category": "osint",
+      "author": "Hidden Investigations",
+      "points": 69,
+      "solves": 157,
+      "platform_solved": true,
+      "documentation": "solution_reconstituee",
+      "writeup": "writeups/osint/low-tide-ledger.md"
+    },
+    {
+      "title": "chillin!!!",
+      "category": "osint",
+      "author": "Hidden Investigations",
+      "points": 94,
+      "solves": 77,
+      "platform_solved": true,
+      "documentation": "analyse_partielle",
+      "writeup": "writeups/osint/chillin.md"
+    },
+    {
+      "title": "The Reason for the Photograph",
+      "category": "osint",
+      "author": "Hidden Investigations",
+      "points": 141,
+      "solves": 38,
+      "platform_solved": false,
+      "documentation": "analyse_partielle",
+      "writeup": "writeups/osint/the-reason-for-the-photograph.md"
+    },
+    {
+      "title": "Blind Index",
+      "category": "ai-llm",
+      "author": "Hidden Investigations",
+      "points": 101,
+      "solves": 67,
+      "platform_solved": true,
+      "documentation": "traces_insuffisantes",
+      "writeup": null
+    },
+    {
+      "title": "VaultKeeper",
+      "category": "android",
+      "author": "Hidden Investigations",
+      "points": 57,
+      "solves": 381,
+      "platform_solved": true,
+      "documentation": "traces_insuffisantes",
+      "writeup": null
+    },
+    {
+      "title": "Cipher",
+      "category": "android",
+      "author": "Hidden Investigations",
+      "points": 60,
+      "solves": 267,
+      "platform_solved": true,
+      "documentation": "analyse_partielle",
+      "writeup": "writeups/android/cipher.md"
+    },
+    {
+      "title": "Tasmota Vault",
+      "category": "hardware",
+      "author": "Hidden Investigations",
+      "points": 56,
+      "solves": 436,
+      "platform_solved": true,
+      "documentation": "traces_insuffisantes",
+      "writeup": null
+    },
+    {
+      "title": "GhostBus",
+      "category": "hardware",
+      "author": "Hidden Investigations",
+      "points": 58,
+      "solves": 346,
+      "platform_solved": true,
+      "documentation": "traces_insuffisantes",
+      "writeup": null
+    },
+    {
+      "title": "C3 Vault",
+      "category": "hardware",
+      "author": "Hidden Investigations",
+      "points": 59,
+      "solves": 310,
+      "platform_solved": true,
+      "documentation": "traces_insuffisantes",
+      "writeup": null
+    },
+    {
+      "title": "Cold Chain",
+      "category": "hardware",
+      "author": "Hidden Investigations",
+      "points": 66,
+      "solves": 183,
+      "platform_solved": true,
+      "documentation": "traces_insuffisantes",
+      "writeup": null
+    },
+    {
+      "title": "Ground Station",
+      "category": "hardware",
+      "author": "Hidden Investigations",
+      "points": 67,
+      "solves": 177,
+      "platform_solved": true,
+      "documentation": "traces_insuffisantes",
+      "writeup": null
+    },
+    {
+      "title": "The Quiet Divide",
+      "category": "network",
+      "author": "Hidden Investigations",
+      "points": 65,
+      "solves": 200,
+      "platform_solved": true,
+      "documentation": "solution_reconstituee",
+      "writeup": "writeups/network/the-quiet-divide.md"
+    },
+    {
+      "title": "Operation Chimera",
+      "category": "network",
+      "author": "0xblackfox",
+      "points": 122,
+      "solves": 48,
+      "platform_solved": true,
+      "documentation": "analyse_partielle",
+      "writeup": "writeups/network/operation-chimera.md"
+    },
+    {
+      "title": "Roof of Africa",
+      "category": "steg",
+      "author": "@archnexus707",
+      "points": 53,
+      "solves": 705,
+      "platform_solved": true,
+      "documentation": "traces_insuffisantes",
+      "writeup": null
+    },
+    {
+      "title": "Zanzibar Whisper",
+      "category": "steg",
+      "author": "@archnexus707",
+      "points": 53,
+      "solves": 682,
+      "platform_solved": true,
+      "documentation": "traces_insuffisantes",
+      "writeup": null
+    },
+    {
+      "title": "Whispers in the Margin",
+      "category": "steg",
+      "author": "Hidden Investigations",
+      "points": 55,
+      "solves": 537,
+      "platform_solved": true,
+      "documentation": "traces_insuffisantes",
+      "writeup": null
+    },
+    {
+      "title": "Echoes of a Forgotten Canvas",
+      "category": "steg",
+      "author": "Hidden Investigations",
+      "points": 59,
+      "solves": 316,
+      "platform_solved": true,
+      "documentation": "traces_insuffisantes",
+      "writeup": null
+    },
+    {
+      "title": "Paper Trail",
+      "category": "steg",
+      "author": "Hidden Investigations",
+      "points": 60,
+      "solves": 266,
+      "platform_solved": true,
+      "documentation": "traces_insuffisantes",
+      "writeup": null
+    },
+    {
+      "title": "Hall of Mirrors",
+      "category": "steg",
+      "author": "Hidden Investigations",
+      "points": 73,
+      "solves": 134,
+      "platform_solved": true,
+      "documentation": "analyse_partielle",
+      "writeup": "writeups/steg/hall-of-mirrors.md"
+    },
+    {
+      "title": "No Bit Sings Alone",
+      "category": "steg",
+      "author": "Hidden Investigations",
+      "points": 99,
+      "solves": 69,
+      "platform_solved": true,
+      "documentation": "analyse_partielle",
+      "writeup": "writeups/steg/no-bit-sings-alone.md"
+    },
+    {
+      "title": "Unremarable",
+      "category": "steg",
+      "author": "Hidden Investigations",
+      "points": 121,
+      "solves": 49,
+      "platform_solved": false,
+      "documentation": "analyse_partielle",
+      "writeup": "writeups/steg/unremarable.md"
+    }
+  ]
+}

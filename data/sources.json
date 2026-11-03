@@ -1,0 +1,361 @@
+{
+  "compiled_on": "2026-11-03",
+  "note": "Empreintes des sources originales sélectionnées ; leur contenu brut reste hors du dépôt. Les préfixes sont définis dans docs/provenance.md.",
+  "files": [
+    {
+      "id": "continue/outputs/bilan-challenges.txt",
+      "bytes": 3405,
+      "sha256": "753d57e2b66824031fcd995f60b3abfe0438504fc573bbe31908325fac932bb7"
+    },
+    {
+      "id": "continue/outputs/bilan-derniere-passe.txt",
+      "bytes": 2236,
+      "sha256": "1dae252395439621ad02a356d19969786275331eeb3e89ccdba68a8f02489f0b"
+    },
+    {
+      "id": "continue/outputs/cipher-bilan.txt",
+      "bytes": 3910,
+      "sha256": "8a76cd215a1bcbf25af65301ab2f0f6b4cc8b1d8d826d0e0e9181e571f25c469"
+    },
+    {
+      "id": "continue/outputs/dead-air-valide.png",
+      "bytes": 84122,
+      "sha256": "6c29c30338d556b3f4fdcba64e317ff2920e72297ccff4314b99836f53d0133f"
+    },
+    {
+      "id": "continue/outputs/dead-air/logbook_page.png",
+      "bytes": 880401,
+      "sha256": "c2d95be5dd76b97b3b64dea8292ddb61ca3ff208f7eaa2e7d8f6971801bc1e11"
+    },
+    {
+      "id": "continue/outputs/dead-air/operator_codepad.png",
+      "bytes": 1090865,
+      "sha256": "fae98f150d6107127c16eaa90fac69f7dbb13b007e03841507a1360c5a2b4bcd"
+    },
+    {
+      "id": "continue/outputs/dead-air/solution.txt",
+      "bytes": 1525,
+      "sha256": "ca9f349e433a51d54493b6c3ae0a8120b2a2704392c4550b7b0d1d6ac84f6662"
+    },
+    {
+      "id": "continue/outputs/dead-air/solve_dead_air.py",
+      "bytes": 2653,
+      "sha256": "4a230c068fe90350628aa06046a1daa5d3c22fd3723113990b21956c49e4ef58"
+    },
+    {
+      "id": "continue/outputs/dead-air/spectrogramme.png",
+      "bytes": 3687674,
+      "sha256": "d3c9678cc9bd7ef599ec3dcf88a9675296b95ed9b801525080cdf12fa98699a2"
+    },
+    {
+      "id": "continue/outputs/ghost-in-ram-valide.png",
+      "bytes": 83996,
+      "sha256": "19d0b9b61eb3c341cbf744e203822d7a4162d9dc0a254a1e23f9dc685f3f54f5"
+    },
+    {
+      "id": "continue/outputs/low-tide-ledger-plaque.png",
+      "bytes": 115776,
+      "sha256": "40dd33508c7479857b41c135902f21cfff9e4fbf35d95caaa84488c5e72f9852"
+    },
+    {
+      "id": "continue/outputs/low-tide-ledger-valide.png",
+      "bytes": 89434,
+      "sha256": "7fa58e2cdb8226364d69cbbaa8004878e8e6268ba4d7e3196c9d4512472e2256"
+    },
+    {
+      "id": "continue/outputs/photograph-metrique.txt",
+      "bytes": 7730,
+      "sha256": "d2db8d2ef182226549df51bb3fab1b043c0131bf0ce8fb025a364538e83fb238"
+    },
+    {
+      "id": "continue/outputs/photograph-source-confirmee.txt",
+      "bytes": 3959,
+      "sha256": "e06716d7e544b364158bc0d5a9d9224faf3653fd9833ef55c61f84015a52093a"
+    },
+    {
+      "id": "continue/outputs/rocinate-valide.png",
+      "bytes": 71695,
+      "sha256": "3b2b22060ded7ed92e5da8d5b7c5d62ab47039d78071da5ed80758b3fe5d5655"
+    },
+    {
+      "id": "continue/outputs/solutions/ghost-in-ram/recover_flag.py",
+      "bytes": 1677,
+      "sha256": "6f031d6c637f6adca729fb580fba01003d22409523ec1543b66476b954bcf129"
+    },
+    {
+      "id": "continue/outputs/solutions/ghost-in-ram/solution.txt",
+      "bytes": 974,
+      "sha256": "65eadbfd985363ca9f06f4e6119739582be8df853eb9a158b9f71339aa15f172"
+    },
+    {
+      "id": "continue/outputs/solutions/low-tide-ledger/solution.txt",
+      "bytes": 1121,
+      "sha256": "49e2ecef114eb73eb74f2908e295f2946a999f7b9a49dffdeca87c79ce76b364"
+    },
+    {
+      "id": "continue/outputs/solutions/rocinate/recover_flag.py",
+      "bytes": 1567,
+      "sha256": "f0d95c1e3b1a3e23453b329f28dd85f2af525f20fc884ee2d6cf30a4f240acca"
+    },
+    {
+      "id": "continue/outputs/solutions/rocinate/recover_state.py",
+      "bytes": 1808,
+      "sha256": "b80221b361bf4ca4704b8a35eb038f12cc74dc630cd6947af0c7c180204b3c2a"
+    },
+    {
+      "id": "continue/outputs/solutions/rocinate/solution.txt",
+      "bytes": 724,
+      "sha256": "893a24e494cf322cfb39185fad9885500b6cd68e671c1e3f8790d33e3c34387c"
+    },
+    {
+      "id": "ctf-work/chillin/analysis.txt",
+      "bytes": 570,
+      "sha256": "f3a14142c7605af87a08c4a692373cc9105ec1aa0b0cc5a166d0e81b5b4e35dd"
+    },
+    {
+      "id": "ctf-work/chillin/reprise_osint/artifact-verification.json",
+      "bytes": 260,
+      "sha256": "0b06722092eb4be44145273e40f713ec583f4254c89943a5905040c884f3790c"
+    },
+    {
+      "id": "ctf-work/chillin/reprise_osint/geometrie_et_archive_final.txt",
+      "bytes": 5101,
+      "sha256": "c72b6badb71f5f7577c85aa727ad1bfe4869486e4114306db1064586bb87e535"
+    },
+    {
+      "id": "ctf-work/chillin/reprise_osint/rapport.txt",
+      "bytes": 4900,
+      "sha256": "ae7215112fe369d75960d9f8c9edf708724a02460453173e62b1f0809d62554d"
+    },
+    {
+      "id": "ctf-work/chillin/reprise_osint/reexamen_apres_rejet.txt",
+      "bytes": 3874,
+      "sha256": "22e74d00c55d7cf3e2d52619006b580a1acb3323c95413acabffe57617fd3cd3"
+    },
+    {
+      "id": "ctf-work/chillin/reprise_osint/w3w-landmark-rejected.png",
+      "bytes": 75006,
+      "sha256": "dabca7ec8a812ff05ae1eda75abbdf9ec9978977450209cdb1ff83337f1a350e"
+    },
+    {
+      "id": "ctf-work/chillin/source-investigation.txt",
+      "bytes": 2238,
+      "sha256": "e3d6a38464d8e4a6be70559cc4aead0703f9f2bb2696098f8ace07513fbb9249"
+    },
+    {
+      "id": "ctf-work/chimera/REPRISE-CHIMERA.txt",
+      "bytes": 4925,
+      "sha256": "9b8ba1c15a3721b6c885355f20ede87dfbd46aab8dea9b0fbe498ad252af8327"
+    },
+    {
+      "id": "ctf-work/chimera/analysis.txt",
+      "bytes": 4248,
+      "sha256": "274a28d0dd810b612868ea411952b5f03654ec89137d6f71bb303ee4ad980c5e"
+    },
+    {
+      "id": "ctf-work/chimera/dns_outer_meta.tsv",
+      "bytes": 18238,
+      "sha256": "edbce4ca682015c0b6bae1a2bd95149a9cd1bef45dbd1e5761b938286c0b6045"
+    },
+    {
+      "id": "ctf-work/chimera/header_analysis_2026-10-30.txt",
+      "bytes": 2243,
+      "sha256": "46c1c402b8ae33d4cde79512db2a3c24cf021d732712338de3976969cbec7e56"
+    },
+    {
+      "id": "ctf-work/chimera/http_requests.tsv",
+      "bytes": 8105,
+      "sha256": "161da8b1d130406664551fd79a090467bad10b59e20bcb6dc3f10f148be06a49"
+    },
+    {
+      "id": "ctf-work/chimera/reprise_objects.txt",
+      "bytes": 4051,
+      "sha256": "994fc47f11e5ae426a7867688a9294f7e270ec1a48cd1e979a28815ff97b5f3b"
+    },
+    {
+      "id": "ctf-work/chimera/tls55.txt",
+      "bytes": 29014,
+      "sha256": "bc8d5529778038b381643d39e976609d3fbddc3afcb671c7e06d4eada2622896"
+    },
+    {
+      "id": "ctf-work/chronogrind/checkpoint.txt",
+      "bytes": 629,
+      "sha256": "932659e83d18b94b29294281e2ff6233350ac95b488c2a51c5ed530cd480c8e3"
+    },
+    {
+      "id": "ctf-work/chronogrind/flag.enc",
+      "bytes": 68,
+      "sha256": "cb7a6af35234eb07a016f529cc8d1e4412270205ec54230bd3976217b272e5d3"
+    },
+    {
+      "id": "ctf-work/chronogrind/params.txt",
+      "bytes": 1246,
+      "sha256": "8ebb0c3c0ddfe4819be446977095b5853b1ccf6576f7d047299485e829789b67"
+    },
+    {
+      "id": "ctf-work/chronogrind/run.log",
+      "bytes": 41581,
+      "sha256": "3a8157d9a8289e926a723efde5bca2f32d0ea7d50cc43c0adc50ad5170b3dcf0"
+    },
+    {
+      "id": "ctf-work/chronogrind/solve.c",
+      "bytes": 3207,
+      "sha256": "2c03e4faae44e3408c31bb9056d8ecd7ad0b02c9d93ddec34c09e74297252698"
+    },
+    {
+      "id": "ctf-work/investigation-reprise/lecture-des-enonces.txt",
+      "bytes": 2678,
+      "sha256": "f1c291b9c8a175393d2e8c6f354f5222e907d36cc33162e40c205c76d16e45cc"
+    },
+    {
+      "id": "ctf-work/unremarkable/NOTES.txt",
+      "bytes": 3355,
+      "sha256": "ca64feb5450c6d3dba530799a97382df5ced04c88536df96f5ea733c10b10b03"
+    },
+    {
+      "id": "ctf_work/cairn/challenge files/RULES.md",
+      "bytes": 3742,
+      "sha256": "b099195cc8bfc76c745a3191d26bf10d65734b45753c2217d6921a57929517b0"
+    },
+    {
+      "id": "ctf_work/cairn/challenge files/challenge.json",
+      "bytes": 7715,
+      "sha256": "a606acc0a44cd06687a82398634e21962af98391bc27ac1451e5ee4e714ad3f3"
+    },
+    {
+      "id": "ctf_work/cairn/checkpoint_cpp.txt",
+      "bytes": 475,
+      "sha256": "249ea636c94ce80e3cbbd334cb7acdd54064c43bc2911a46a62598225b6705af"
+    },
+    {
+      "id": "ctf_work/cairn/decrypt_final.py",
+      "bytes": 624,
+      "sha256": "5cd510d262e19959b5548d3432c638402315cfb0d6550c63651560ccf0c5806b"
+    },
+    {
+      "id": "ctf_work/cairn/flag.txt",
+      "bytes": 39,
+      "sha256": "ad3cbb26ecae05ac349de3d8a6c9d894e5a2958f6ed2945b3025e9235df97ed7"
+    },
+    {
+      "id": "ctf_work/cairn/run_full.py",
+      "bytes": 916,
+      "sha256": "43fc911388510e0cf4f068aef10498527e7cf839e5b30992329369920b6e4608"
+    },
+    {
+      "id": "ctf_work/cairn/runner.log",
+      "bytes": 54,
+      "sha256": "49e66431b0c3fbb005ab05d8469ad9543c538e840b4b5088cb0ec9233fba93b2"
+    },
+    {
+      "id": "ctf_work/cairn/solve.py",
+      "bytes": 1916,
+      "sha256": "c8ce6603aba20806e948b57df06d5f5768551c9cbf9a7920e23d189959f926e7"
+    },
+    {
+      "id": "ctf_work/cairn/solve_velu.py",
+      "bytes": 3579,
+      "sha256": "039708e5792bd52e25913283819bf5c96c5335958e8572d526ea26eceda2e7ad"
+    },
+    {
+      "id": "ctf_work/cold-circuit/check",
+      "bytes": 14472,
+      "sha256": "d99879bcf25e081c8383578718b227a705c81855688874b286c97e7fcca19610"
+    },
+    {
+      "id": "ctf_work/cold-circuit/flag.txt",
+      "bytes": 40,
+      "sha256": "4c590a6ea31b7f7398c858e04f6d2673d8dfb154b88f0d8d415809ba13a0f59b"
+    },
+    {
+      "id": "ctf_work/cold-circuit/solve.py",
+      "bytes": 965,
+      "sha256": "8a3774e9d602392b53ee752f2fb504edaf8e2a7472ac085ba4baf632e1e10923"
+    },
+    {
+      "id": "ctf_work/hall-of-mirrors/STATUS.txt",
+      "bytes": 3341,
+      "sha256": "d9f277f24070cafddab95a22f88e5dc852bcf110b5b5f257e828fe696ae54bf1"
+    },
+    {
+      "id": "ctf_work/no-bit-sings-alone/resume-audio-report.txt",
+      "bytes": 2478,
+      "sha256": "1cc78ef19d43e8ae4eee8ef10314cc681974e777a409d939777db80194897072"
+    },
+    {
+      "id": "ctf_work/no-bit-sings-alone/text-decoded.txt",
+      "bytes": 220,
+      "sha256": "d9049f95ea3d891a54f05415608cf357efc444d9c4325c3ee327648ebf1878e9"
+    },
+    {
+      "id": "ctf_work/photo/verified-iglesia-vieja.txt",
+      "bytes": 2877,
+      "sha256": "eaf1ff1278c9c750e26652c2213a069d940aa2b35d43e0df171b05152f19f345"
+    },
+    {
+      "id": "ctf_work/rocinate-revenge/measured-relations.json",
+      "bytes": 5441,
+      "sha256": "6f33427033735f5b2c0865311c4d9ca8aff806e15d351bd3309a5a92ac79e63f"
+    },
+    {
+      "id": "ctf_work/rocinate-revenge/review-notes.txt",
+      "bytes": 2140,
+      "sha256": "5cbd446d594906db5e17752211b929a97b065190ec24af8c1cda320cfc5c53a8"
+    },
+    {
+      "id": "ctf_work/the-miner/facts.json",
+      "bytes": 2301,
+      "sha256": "7c32946c36f049518fbf8abe0e512b7c509290cd38d9e2421ab58090645b3fc0"
+    },
+    {
+      "id": "ctf_work/the-miner/interesting_sysmon.json",
+      "bytes": 18367,
+      "sha256": "b23bcd5e83a17b6b83f96101aef484eda31e228254d6bce5860b57d3cb6418c4"
+    },
+    {
+      "id": "ctf_work/the-miner/mft_interesting.json",
+      "bytes": 107604,
+      "sha256": "8d598c6fc8471a629f83a95144c4b40d40489b2dba1f591203ef360613beb0f7"
+    },
+    {
+      "id": "ctf_work/the-miner/parse_mft.py",
+      "bytes": 2307,
+      "sha256": "c247130c80c66ef064412d5763596f31d19b195b4105d546987866585412c126"
+    },
+    {
+      "id": "ctf_work/the-miner/solved.png",
+      "bytes": 83000,
+      "sha256": "e602b9eadcd347d5e9c5b83b9a6bc134fc67abbffb1aaf90b8787eb426d26b0a"
+    },
+    {
+      "id": "ctf_work/the-miner/transcript-20261101T122335Z.txt",
+      "bytes": 3894,
+      "sha256": "66aaf46f6d758dc36b635e964c64a03232fff8465fc91b4bf31aa2d98135c633"
+    },
+    {
+      "id": "ctf_work/the-quiet-divide/flag.txt",
+      "bytes": 47,
+      "sha256": "197ba28c110cc270728fb1e5ca10f42ce54250e2bdb3231083b493e211d112d0"
+    },
+    {
+      "id": "ctf_work/the-quiet-divide/recover_archives.py",
+      "bytes": 2674,
+      "sha256": "0770a8db0b09ea628618db26b0438cb318c15095899f839798eb2f520f325be9"
+    },
+    {
+      "id": "ctf_work/the-quiet-divide/recover_flag.py",
+      "bytes": 2710,
+      "sha256": "e6f9f62dfbd0c7f01d14fbcf19499e0bf9bc3f7ff89a2c1b98e089c64bb00e58"
+    },
+    {
+      "id": "ctf_work/the-quiet-divide/verify_signatures.py",
+      "bytes": 970,
+      "sha256": "4c5f8209aef8eccf88b551bc3800bd67d526e831c77676be8286fb81540a1ee6"
+    },
+    {
+      "id": "ctf_work/unremarable/STATUS-new.txt",
+      "bytes": 604,
+      "sha256": "17bbf1d9b5bc1f2b208b0cb1c65ecd076100151c6807b07eb43855da31cbc2bd"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+# Dependencies used by the portable offline analysis scripts.
+# Individual writeups list the external command-line tools they use.
+cryptography
+Pillow
+numpy
+scipy
+matplotlib
+pycryptodome
+
+# The optional full Python walk for Cairn also needs python-flint.
